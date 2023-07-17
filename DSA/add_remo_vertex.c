@@ -1,3 +1,4 @@
+// Adding and removing of vertex.
 #include <stdio.h>
 #include <stdbool.h>
 
